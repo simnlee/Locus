@@ -1,5 +1,7 @@
 # Locus - VR Location Scouting and Shotlist Copilot for Content Creators
 
+Demo: [https://youtu.be/YuX-z0hmIzI](https://youtu.be/YuX-z0hmIzI)
+
 ## Problem to solve
 
 Film preproduction teams and amateur filmmakers waste significant time and money on location scouting and shotlist planning. You don't know if a place works until you're there: lighting's wrong, streets are crowded, camera moves don't fit. For indie creators and short-form teams, flying to scout is unrealistic; for studios, scouting dozens of options is slow and expensive. Existing virtual tools (Street View screenshots, moodboards) are flat and don't translate into camera-accurate plans or a shareable storyboard you can iterate on.
